@@ -1,0 +1,24 @@
+body
+{
+	margin: 0;
+	padding:0;
+}
+
+ul
+{
+	list-style-type: none;
+	padding: 0;
+	margin-left: -5;
+	background-color: #f1f5f0;
+	width: 30%;
+	border: 1px solid #5680;
+	position: fixed;
+	height: 100%;
+}
+
+li a
+{
+	display:block;
+	padding:8px 0 9px 16px;
+	text-decoration:none;
+}
